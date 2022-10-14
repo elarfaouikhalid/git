@@ -1,1 +1,1 @@
-loremm 
+lore
